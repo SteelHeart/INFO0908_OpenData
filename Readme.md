@@ -1,0 +1,33 @@
+```
+#format d'objet JSON
+{
+  "age_au_bac": "R1",
+  "age_au_bac_lib": "En retard d'un an",
+  "cohorte_passage": "2014",
+  "cohorte_reussite": "2012",
+  "discipline": "06",
+  "discipline_lib": "Sciences humaines et sociales",
+  "effectif_neobacheliers_passage": 3,
+  "effectif_neobacheliers_reussite": 2,
+  "gd_discipline": "LLSH",
+  "gd_discipline_lib": "Lettres, langues et sciences humaines",
+  "mention_bac": "D",
+  "mention_bac_lib": "Passable premier groupe",
+  "passage_en_l2_1_2_ans": 1,
+  "passage_en_l2_1_an": 1,
+  "passage_en_l2_2_ans": 0,
+  "redoublement_en_l1": 0,
+  "reorientation_en_dut": 0,
+  "reorientation_en_dut_1_an": 0,
+  "reorientation_en_dut_2_ans": 0,
+  "reussite_3_4_ans": 0,
+  "reussite_3_ans": 0,
+  "reussite_4_ans": 0,
+  "sect_disciplinaire": 34,
+  "sect_disciplinaire_lib": "Sciences de l'éducation",
+  "serie_bac": 4,
+  "serie_bac_lib": "BAC STMG",
+  "sexe": 1,
+  "sexe_lib": "Homme"
+},
+```
